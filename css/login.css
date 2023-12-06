@@ -1,0 +1,10 @@
+#login {
+  margin: auto;
+  width: max-content;
+  margin-top: 24%;
+  border: 0.3em solid green;
+}
+
+input {
+    margin: 1em;
+}
